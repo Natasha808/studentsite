@@ -1,2 +1,4 @@
-# stuentsite
-This is my student website for all of my course work.
+# Natasha's Student Site
+
+This is my student website createdd for my NMA courses.
+
