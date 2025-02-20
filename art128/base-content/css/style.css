@@ -33,4 +33,64 @@ body {
     font-family: system-ui, Helvetica, Arial, sans-serif;
     color:#333;
     line-height: 1.4;
+
+
+/*SET DEFAULT FONT SIZE FOR 1EM */
+font-size: 100%;
+}
+
+/*HEADDINGS */
+
+h1, h2, h4, h5, h6 {
+    margin: .5em 0;
+}
+
+
+
+h1 {
+    font-size: 4em 0;
+    line-height: 1;
+}
+h2 {
+    margin: 0;
+}
+h3 {
+    margin: 0;
+}
+h4 {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+    /* PARAGRAPHS - SET HORIZONTAL MEASURE */
+    p {
+        max-width: 66ch;
+    
+    }
+/* MEDIA */
+
+/* RESPONSIVE IMAGES */
+img {
+    max-width 100%;
+    height: auto;
+
+
+}
+/* BUTTONS */
+.button {
+    background-color: red;
+    color: white;
+    padding: 1em; 2em;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 3cm;
+
 }
